@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nuwanshi Indeewari</h1>
 <h3 align="center">A passionate about electronics and computer science</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nuwanshiindeewari&label=Profile%20views&color=0e75b6&style=flat" alt="nuwanshiindeewari" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nuwanshiindeewari&label=Profile%20views&color=0e75b6&style=flat" alt="nuwanshiindeewari" /> </p>
 
 - 🌱 I’m currently learning **Electronics and Computer Science**
 
